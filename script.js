@@ -1,1 +1,2 @@
-alert('HEllo world')
+alert('HEllo world');
+prompt('Enter your name')
